@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\MyProject.mcppi
+Project1=..\radwan1419.mcppi
+[ActiveProject]
+Index=1
