@@ -2,7 +2,7 @@
 
 
 
-
+ int x =0;
 
 void main() {
 
@@ -12,7 +12,7 @@ if (portb.b1==1)
 
 
  {
-portb.rb1 = 1;
+    x++;
 
       }
 
